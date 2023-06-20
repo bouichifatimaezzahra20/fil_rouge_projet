@@ -1,0 +1,72 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600&family=Poppins:wght@300;400&display=swap'); 
+body{
+    background-color: black;
+    padding: 4%;
+    padding-top: 0%;
+}
+  .logo{
+    width: 200px;
+    height: 200px;
+    margin-left: 40%;
+    margin-top: 10px;
+
+  }
+  h1{
+    color: #F2CA8F;
+    font-family: 'Dancing Script', cursive;
+    font-size: 52px;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px
+
+  }
+ hr{
+  position: absolute;
+  width: 553px;
+  margin-top: 243px;
+  margin-right: 600px;
+  top: 340px;
+  border: 1px solid #F2CA8F;
+  transform: rotate(90deg);
+
+  }
+  
+  .card{
+    border: 1px solid #F2CA8F;
+
+  }
+  h5, p{
+    display: flex;
+    justify-content: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 22px;
+  }
+  .btn-borrow{
+ border: 1px solid #F2CA8F;
+color: #F2CA8F;
+background-color: transparent;
+margin-left: 28px;
+width: 170px;
+  }
+  .btn{
+background-color: #F2CA8F;
+color: black;
+  }
+  .card-img{
+    height: 300px;
+    width: 260px;
+
+  }
+  span{
+    color: #F2CA8F;
+    font-size: 30px;
+  }
+ .form-control{
+    border: 1px solid #F2CA8F;
+
+ }
+ .container{
+  display: flex;
+  flex-direction: row;
+ }

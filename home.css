@@ -1,0 +1,121 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600&family=Poppins:wght@300;400&display=swap'); 
+
+body{
+    background-color: black;
+    padding: 4%;
+    padding-top: 0%;
+}
+.session{
+margin-top: 100px;
+}
+hr{
+    border: 2px solid #F2CA8F;
+    border-radius: 2px;
+  }
+  h1, h2{
+    font-family: 'Dancing Script', cursive;
+    color: #F2CA8F;
+    font-size: 48px;
+    margin-top: 90px;
+
+  }
+  .btn-outline{
+    color: #D6B38B;
+    border: solid 1px #D6B38B;
+  }
+  p{
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+    font-size: 26px;
+
+  }
+  .logo{
+    width: 200px;
+    height: 200px;
+    margin-left: 42%;
+    margin-top: 20px;
+
+  }
+  .img-fluid{
+    width: 400px;
+    height: 500px;
+  }
+  .img-fluide{
+    width: 330px;
+    height: 330px;
+  }
+  /* i .icon{
+    background-color: transparent;
+    color: #F2CA8F;
+    height: 60px;
+    width: 100px;
+ } */
+ /* form */
+ .logoo{
+  width: 500px;
+  margin-top: 150px;
+
+}
+.form{
+  margin-left: 200px;
+  margin-top: 150px;
+}
+.contact-form .formvalid {
+  position: relative;
+  /* margin: 50px 0; */
+  margin-top: 50px;
+}
+.contact-form .input-text {
+  display: block;
+  width: 500px;
+  height: 36px;
+  border-width: 0 0 2px 0;
+  border-color: #fff;
+  background-color: transparent;
+  font-size: 18px;
+  line-height: 26px;
+  font-weight: 400;
+}
+.contact-form .input-text:focus {
+  outline: none;
+}
+.contact-form .input-text:focus + .label,
+.contact-form .input-text.not-empty + .label {
+  -webkit-transform: translateY(-24px);
+          transform: translateY(-24px);
+}
+.contact-form .label {
+  position: absolute;
+  bottom: 11px;
+  font-size: 18px;
+  line-height: 26px;
+  font-weight: 400;
+  color: #fff;
+  cursor: text;
+  transition: -webkit-transform .2s ease-in-out;
+  transition: transform .2s ease-in-out;
+  transition: transform .2s ease-in-out, 
+  -webkit-transform .2s ease-in-out;
+}
+.contact-form .submit-btn {
+  display: inline-block;
+  background-color: #D6B38B;
+  color: #000000;
+  font-size: 20px;
+  padding: 6px 12px;
+  width:500px;
+  cursor: pointer;
+}
+.bg
+{
+  font-family: 'Poppins';
+    background-image: url("image/background.jpg");
+    background-size: 100%;
+
+}
+.form h1{
+  font-family: 'Dancing Script', cursive;
+  font-size: 68px;
+  margin-left: 180px;
+}
